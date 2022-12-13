@@ -1,0 +1,8 @@
+{
+    "name": "vasim",
+    "age": 33,
+    "rollNo": 116,
+    "subjects":["Java","Python","JavaScript","Flutter"],
+    "attributes":{"height":5.8, "color":"white"}
+    
+}
